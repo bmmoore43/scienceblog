@@ -6,7 +6,7 @@ url: "https://bmmoore43.github.io/"
 title: A Plant Biology Blog                                    # site's title
 description: "Blog posts about cool plant science"      # used by search engines
 avatar: assets/img/portfolio/athaliana.svg                         # Empty for no avatar in navbar
-favicon: assets/img/portfolio/athaliana.svg                            # Icon displayed in the tab
+favicon: assets/img/portfolio/athaliana-icon.png                            # Icon displayed in the tab
 
 # Header and footer text
 header_text: Blogging <code>Biology</code>  # Change Blog header text
