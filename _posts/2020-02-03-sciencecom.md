@@ -2,7 +2,7 @@
 layout: post
 title: Ways to communicate science using Github
 tags: 'Science communication Github websites'
-thumbnail: "assets/img/portfolio/ninja.png"
+thumbnail: "assets/img/portfolio/sci-comm.png"
 color: rgb(128, 177, 179)
 excerpt_separator: <!--more-->
 published: true
