@@ -20,9 +20,17 @@ Sign up here: [Github](https://github.com/)
 Check out [these themes](https://jekyll-themes.com/free/) to find what works best for your site
 **Fork the theme you like**
 Go to your theme's Github page or repository
-Choose Fork this repository. This repository should now show up on your Github page
+Choose Fork this repository. This repository should now show up on your Github page. Click "use as template" in order to make this your own repository. Choose a name.
 **Adjust config file**
+open _config.yml_ file to adjust the url. If you want the website to be your github name, then add in your github name as the url and leave baseurl as "". 
+>baseurl: ""
+>url: "https://username.github.io"
+
+Alternatively, if you want to add this as a subpath to your directory then the baseurl should be the name you want as the subpath:
+>baseurl: "/sub-directory"
+>url: "https://username.github.io/"
+
+Finally, if you want to create a page completely independent of your user name then you should create a new organization, and then you can use the organization name as your website name.
 
 ![Travel]({{ "/assets/img/pexels/travel.jpeg" | relative_url}})
 
-> boxed code example
