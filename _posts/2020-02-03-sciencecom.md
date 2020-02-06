@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ways to communicate science using Github
-tags: 'Science communication, Github websites'
+tags: 'Science communication Github websites'
 color: rgb(128, 177, 179)
 excerpt_separator: <!--more-->
 published: true
@@ -33,5 +33,6 @@ Alternatively, if you want to add this as a subpath to your directory then the b
 
 Finally, if you want to create a page completely independent of your user name then you should create a new organization, and then you can use the organization name as your website name.
 
-![Your science will take off by using Github]({{ "assets/img/pexels/snowy-owl_robert_holden_immature.jpg" | https://github.com/}})
+Your science will take off by using Github!
+![image of snowy owl]({{ "/assets/img/pexels/snowy-owl_robert_holden_immature.jpg" | relative_url}})
 
