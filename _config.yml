@@ -5,12 +5,12 @@ url: "https://bmmoore43.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 title: A Plant Biology Blog                                    # site's title
 description: "Blog posts about cool plant science"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+avatar: assets/img/portfolio/athaliana.svg                         # Empty for no avatar in navbar
+favicon: assets/img/portfolio/athaliana.svg                            # Icon displayed in the tab
 
 # Header and footer text
 header_text: Blogging <code>Biology</code>  # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_feature_image: assets/img/pexels/IMG_5834.jpeg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
